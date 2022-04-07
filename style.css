@@ -1,0 +1,38 @@
+.body_backgorund {
+  background-image: linear-gradient(to right top,green,yellow);
+    background-position: center;
+    background-size: cover;
+    color: rgb(255, 106, 0);
+    
+  }
+  body{
+    cursor: pointer;
+  }
+  h1
+  {
+      color: rgb(255, 106, 0); 
+      font-size: 40px;
+  }
+  #myCanvas
+  {
+      border-width:10px;
+      border-radius: 20px;
+      border-color: rgb(255, 106, 0);
+      background-color: white; 
+      border-style: solid;
+  }
+
+  button {
+    background-color:rgb(255, 106, 0);
+    border: none;
+    color: white;
+    padding: 15px ;
+    font-size: 20px;
+    border-radius: 20px;
+  }
+
+  input
+  {
+    margin-right: 20px;
+  }
+  
